@@ -1,0 +1,6 @@
+- create the table hospital
+-- pat_id
+-- pat_name
+-- pat_disease
+-- pat_doj
+-- pat_doctor
